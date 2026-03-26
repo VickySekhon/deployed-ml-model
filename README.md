@@ -1,6 +1,4 @@
 # deployed-ml-model
-Deployed MNIST Classification Model Trained Using Multi-layer Perceptron in sci-kit learn
-
 https://github.com/user-attachments/assets/b38b1aba-d8e4-4f28-8a8e-fdb8568d3e19
 
 # Usage
