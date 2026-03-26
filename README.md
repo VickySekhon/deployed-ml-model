@@ -1,7 +1,7 @@
 # deployed-ml-model
 Deployed MNIST Classification Model Trained Using Multi-layer Perceptron in sci-kit learn
 
-<video controls src="20260326-2300-19.3017721.mp4" title="Title"></video>
+https://github.com/user-attachments/assets/b38b1aba-d8e4-4f28-8a8e-fdb8568d3e19
 
 # Usage
 POST request to: https://deployed-ml-model-production.up.railway.app/get_prediction using some 28x28 pixel input stored as an array of floating point values.
